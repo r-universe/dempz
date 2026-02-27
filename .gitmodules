@@ -1,7 +1,4 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/dempz/dempz.r-universe.dev
+	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "WAACHShelp"]
-	path = WAACHShelp
-	url = https://github.com/dempz/WAACHShelp
